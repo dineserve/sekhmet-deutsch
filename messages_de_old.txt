@@ -1,0 +1,134 @@
+currency={0} - {1}
+features_button=Merkmale
+pricing_button=Preisgestaltung
+training_button=Ausbildung
+customers_button=Kunden
+support_button=Die Unterstützung
+contact_button=Kontakt
+register_button=Registrieren
+login_button=Einloggen
+
+home_lead_heading=Die&nbsp;App für&nbsp;Köche
+home_lead_paragraph=Nehmen Sie die Schmerzen aus der Rezeptkalkulation.<br>Zeit sparen Sie Zeit beim Zählen von Inventar.
+learn_more_button=Lernen&nbsp;mehr
+list_of_types_of_customers=Restaurants, Hotels, Bäckereien, Cafés, private Köche, Caterer, Brauereien, Kochschulen, Veranstaltungsplaner, Food-Trucks, Bed & Breakfasts, Spezialproduzenten und mehr.
+home_exit_heading=100.000 Küchen auf der ganzen Welt
+home_exit_paragraph=Schließen Sie sich den Tausenden von Unternehmen an, die Fillet vertrauen
+copyright_footer=Copyright © 2022 CityRedbird Standort Services Ltd. Alle Rechte vorbehalten.
+footer_links_section_heading=Fillet-Site-Karte
+footer_link_home=Heim
+android_apk_download_now=Jetzt downloaden
+get_two_months_free=(Holen Sie sich 2 Monate frei)
+
+buy_button=Besorgen
+
+
+checkout_select_currency_heading=Währung wählen
+checkout_select_currency_label=Wenn Ihre Zahlungsmethode in Rechnung gestellt wird, wird diese Währung verwendet.
+checkout_select_interval_heading=Wählen Sie Abrechnungszyklus
+checkout_select_interval_label=Am Ende jedes Abrechnungszyklus werden Sie automatisch in Rechnung gestellt.
+checkout_select_interval_option_1=Monatlich
+checkout_select_interval_option_2=Jährlich
+
+
+billing_interval_month=/Monat
+billing_interval_year=/Jahr
+pricing_title=Preisgestaltung
+pricing_intro_1=Wählen Sie einen Plan basierend auf Ihrer Verwendung oder Ihrer Teamgröße.
+pricing_intro_2=Ändern Sie jederzeit Ihren Plan.
+pricing_intro_3=Erhalten Sie sofortigen Zugriff.
+pricing_individual_title=Individuell
+pricing_team_title=Mannschaft
+pricing_cta=Loslegen
+pricing_individual_body_1=Entworfen für 1 Person
+pricing_individual_body_2=Voller Zugriff auf alle Funktionen
+pricing_individual_body_3=Verwenden Sie eine beliebige Anzahl von Geräten
+pricing_team_body_1=Entwickelt für mehrere Benutzer an 1 Ort
+pricing_team_body_2=Voller Zugang für alle Mitglieder
+pricing_team_body_3=Unbegrenzte Teammitglieder
+pricing_team_body_4=Datenzugriff verwalten
+pricing_compare_plans_title=Vergleiche Pläne
+pricing_table_1=Voller Zugriff auf alle Funktionen
+pricing_table_2=Verfügbar auf iOS, Android und Web App
+pricing_table_3=Unbegrenzte Teammitglieder
+pricing_table_4=Fügen Sie den Zugang zu den Mitgliedern hinzu oder entfernen Sie
+pricing_table_5=Daten mit der ganzen Organisation geteilt
+
+
+features_title=Merkmale
+streamline_and_grow_from_inside_out=Stropieren Sie und erweitern Sie Ihr Geschäft von innen nach außen.
+get_started_button=Loslegen
+key_workflows=Schlüssel Workflows
+cost_calculation_card=Kostenkalkulation
+calculate_production_cost=Berechnen Sie die Produktionskosten für Ihre Rezepte und Artikel zum Verkauf.
+inventory_and_ordering_card=Inventar und Bestellung
+send_orders_manage_inventory=Senden Sie Bestellungen an Ihre Lieferanten. Verwalten Sie Zutaten in Ihrem Inventar.
+prepare_items_for_sale_card=Bereiten Sie Artikel zum Verkauf vor
+see_profits_ready_to_sell=Sehen Sie Kosten gegen Gewinne.<br>Machen Sie sich bereit, Ihre Produkte zu verkaufen.
+costing_section_heading=Kostenkalkulation
+subrecipes_column_heading=Unterrecipes
+put_recipes_inside_other_recipes_and_more=Stellen Sie Rezepte in andere Rezepte ein.<br>Sparen Sie sich Zeit und Mühe, indem Sie Vorlagenrezepte erstellen. Fügen Sie Basisrezepte in komplexe Rezepte ein. Wiederverwenden von Unterrecipes in endlosen Kombinationen.
+labor_cost=Arbeitskosten
+factor_in_labor_costs_and_more=Faktor für die Arbeitskosten in die Gesamtproduktionskosten.<br>Kosten pro Stunde für verschiedene Aktivitäten angeben. Vergleichen Sie Lebensmittelkosten mit den Arbeitskosten. Fügen Sie jeder Aktivität Beschreibungen hinzu, um eine einfache Referenz zu erhalten.
+track_waste=Track-Abfall
+spoilage_waste_eat_margins_and_more=Verderb und Verschwendung am Rande. Aktualisieren Sie Ihr Inventar, um Mengen an verschwendeten Zutaten widerzuspiegeln.
+inventory_and_ordering_section_heading=Inventar und Bestellung
+inventory_management=Bestandsverwaltung
+see_current_inventory_amounts_and_more=Sehen Sie sich die aktuellen Mengen an Zutaten an, die Sie auf Lager haben.
+rapid_stock_takes=Schnelle Aktien dauern
+update_consumed_inventory_and_more=Aktualisieren Sie sofort Ihr Inventar, wenn Zutaten konsumiert werden.<br>Die Zutatenmengen an mehreren Stellen gleichzeitig aktualisieren. Sehen Sie die verbleibenden Zutaten an jedem Ort an.
+send_purchase_orders=Bestellungen senden
+send_orders_to_suppliers_and_more=Senden Sie Bestellungen an Ihre Lieferanten, um Zutaten zu kaufen. Sie können mehrere Bestellungen gleichzeitig an mehrere Lieferanten senden. Holen Sie sich Benachrichtigungen, wenn Lieferanten Ihre Bestellungen bestätigen.
+prepare_items_for_sale_section_heading=Bereiten Sie Artikel zum Verkauf vor
+photos_column_heading=Fotos
+save_photos_reference_and_more=Speichern Sie Fotos für Rezepte, Menüelemente und Zutaten.<br>Referenzfotos als Anleitungen zu Vorbereitungstechniken, Überbeamten, Verpackungen und vielem mehr erstellen. Sehen Sie sich ein Zutatenfoto als Referenz an, wenn Sie in Ihrem Lagerraum danach suchen.
+list_of_all_ingredients=Liste aller Zutaten
+see_all_ingredients_menu_recipe_and_more=Sehen Sie alle Zutaten in einem Menüpunkt oder einem Rezept an. Sehen Sie sich die Zutaten eines Rezepts an, um Substitutionen oder Variationen vorzunehmen.
+costs_vs_profits=Kosten gegen Gewinne
+set_better_prices_profit_and_more=Setzen Sie bessere Preise, um mehr Gewinn zu erzielen.<br>Fillet berechnet Ihre Gewinne automatisch anhand der Kosten der Komponenten. Sehen Sie, wie viel jede Komponente die Produktionskosten ergänzt. Vergleichen Sie die Prozentsätze für Lebensmittelkosten mit den Arbeitskosten. Ändern Sie Menüelementkomponenten, um die Kosten neu zu kalibrieren.
+grow_your_business_with=Wachsen Sie Ihr Geschäft mit Fillet.
+instant_access_no_commitment=Sofortiger Zugriff. Ohne Verpflichtungen.
+available_on_ios=Erhältlich auf iOS.
+available_on_ios_android=Erhältlich auf iOS und Android.
+available_on_ios_android_web=Verfügbar auf iOS, Android und Web.
+available_on_web=Verfügbar im Web.
+do_more_with_web_app=Mach mehr mit Fillet Web App.
+more_about_subrecipes=Wenn Sie ein Unterrezept wie "Kuchenkruste" ändern, werden die Kosten für Sie in allen Rezepten und Menüpunkten, die sie enthalten, automatisch aktualisiert, z. B. "Apple Pie", "Kürbiskuchen" und "Blueberry Pie".
+more_about_labor_cost=Wenn Sie eine Aktivität wie "Zitronen waschen und in Scheiben schneiden" erstellen, können Sie sie zu Rezepten ("Basic Lemon Sauce") sowie Menüpunkte ("Zitronenkuchen, serviert 8") hinzufügen. Sehen Sie, wie viel Arbeit die verschiedenen Komponenten zu Ihren Produkten ergänzen.
+more_about_waste=Wenn Sie einen Abfallvorfall für eine Zutat wie "Bananen" aufzeichnen, protokollieren Sie Details darüber, was passiert ist ("3 kg; in der Lieferung beschädigt"). Sie können Ihr Inventar auch gleichzeitig aktualisieren ("Bananen; -3 kg").
+more_about_inventory_management=Wenn Sie Aktien einnehmen, können Sie Ihrem Inventar unterwegs eine neue Zutat hinzufügen. Sie können den Barcode des Zutaten scannen oder einfach seinen Namen eingeben. Diese Zutat ist dann in der gesamten App erhältlich.
+more_about_rapid_stock_takes=Wenn Sie ein Rezept erstellen, können Sie Ihr Inventar aktualisieren, um die in diesem Rezept verwendeten Zutatenmengen widerzuspiegeln. Dies hält Ihre Inventardaten frisch.
+more_about_purchase_orders=Wenn Sie Bestellungen an Ihre Lieferanten senden, können sie Ihren Bestellstatus online bestätigen, auch wenn sie kein Fillet verwenden. Sie können den Status Ihrer aktuellen Bestellungen anzeigen. Sie können auch eine Liste Ihrer Bestellhistorie anzeigen.
+more_about_photos=Wenn Sie ein Foto erstellen, synchronisiert es automatisch mit allen anderen Geräten.<br>Wenn Sie einen Teamplan haben, haben alle Organisationsmitglieder Zugriff auf gespeicherte Fotos.
+more_about_list_all_ingredients=Wenn Sie Ihre Menüpunkte endgültig bewerten, können Sie auf bestimmte Zutaten achten, die ausgeschlossen werden müssen. Dies ist besonders nützlich, wenn Sie Produkte für spezielle Diäten entwerfen.
+more_about_cost_versus_profits=Wenn Sie Änderungen an einem Produkt vornehmen, berechnen das Fillet sofort Ihre Kosten gegenüber Gewinnen. Wenn Sie Änderungen an Rezepten oder Zutaten vornehmen, die in einem Menüelement enthalten sind, aktualisieren die Menüelemente der Fillet-Aktualisierung mit diesen Änderungen.
+
+company_country_singapore=Singapur
+company_country_canada=Kanada
+
+select_preferred_language=Was ist deine bevorzugte Sprache?
+select_language=Sprache auswählen
+error_heading=Fehler
+fillet_customer_nogherazza=Fillet Kunden: Luigi, Daniele & Giovanni, <a href="https://nogherazza.it/" class="text-reset" target="_blank"> Nogherazza Ristorante & Locanda</a>, Belluno, Italien
+
+nog_1=Über Nogherazza<br>Ristorante & Locanda
+nog_2=Neue Traditionen schaffen.
+nog_3=Nogherazza begann als Familienbesitz. Vor dreißig Jahren schuf Andreas Miari-fullcis es zu einer Oase in den Belluno-Dolomiten. Herr Miari-Fullcis ist ein Nachkomme von Count Giacomo Miari-Fulcis und Prinzessin Lucrezia Corsini, deren Ehe Belluno-Traditionen mit denen der umbrischen und toskanischen Landschaft vereinigte.
+nog_4=Im Jahr 2010 übernahm drei lebenslange Freunde das Management, nachdem er jahrelang bei Nogherazza zusammengearbeitet hatte. Diese drei Freunde sind Luigi, Daniele und Giovanni.
+nog_5=Von Grund auf
+nog_6=Nogherazzas Köche sind von den Klassikern der italienischen und Belluno-Küche inspiriert. Dies beginnt mit qualitativ hochwertigen Zutaten.
+nog_7=Traditionelle Authentizität
+nog_8=Lokal geschnittenes Fleisch und Käse. Risotto al Pive Vecchio. Wildbret, gegrilltes Fleisch und Casunziei.<br><br>Nogherazzas Menü variiert je nach Jahreszeit.
+nog_9=Technologie trifft die Tradition
+nog_10=Von den täglichen Aktien bis hin zu vierteljährlichen Bewertungen ist das Inventarmanagement von entscheidender Bedeutung für jedes Geschäftsergebnis.
+nog_11=Im L'Espresso Magazine vorgestellt
+nog_12=Nogherazza wurde im Nachrichtenmagazin L'Espresso vorgestellt, einem der bekanntesten italienischen Nachrichtenmagazine.<br>Seit seiner Gründung in Rom im Jahr 1955 bleibt es eines der führenden Nachrichtenmagazine Italiens.<br>Zu den bemerkenswerten Journalisten und Mitwirkenden von L'Espresso gehört Umberto Eco , Emanuele Pirella und dem Ökonomen Jeremy Rifkin.
+nog_13=Über Marta d'Oro
+nog_14=Der Mut, in Krisenzeiten zu investieren.
+nog_15=Nogherazza kreiert weiter Um den Staub zu räumen und die Terrasse im Freien zu reparieren. Jetzt ist Marta d'Oro wieder in Aktion und bietet eine erfrischende Sicht auf traditionelle Gerichte.
+nog_16="Wir glauben, dass es der richtige Zeitpunkt ist, um zu investieren, weil wir an die totale Genesung glauben, dass wir zuversichtlich sind."
+nog_17=Luigi, Daniele & Giovanni
+nog_18=Bei Fillet ist das Inventarmanagement einfach einfacher.<br>und schneller. Und genauer.
+
+app_store_badge=Download_on_the_App_Store_Badge_DE_RGB_blk_092917.svg
+google_play_badge=de_badge_web_generic.png
